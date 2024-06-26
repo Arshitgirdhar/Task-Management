@@ -43,11 +43,7 @@ A task manager app inspired by JIRA allows you to manage your daily tasks.
 
   - Click on drop down icon to view the information u entred about the task:
   <img src = https://user-images.githubusercontent.com/97839369/221429117-51c56178-4b38-4d4b-b1ab-5c1ed0931f84.png >
-3. Board view:
-<img src= https://user-images.githubusercontent.com/97839369/221428865-d764280c-b844-4c6a-8abb-b89102efff0b.png >
 
-  - You can drag the text to change it state
-<img src = https://user-images.githubusercontent.com/97839369/221429038-ccfaf181-0068-49c2-9deb-7de97034bf0b.png >
   
   - Click on drop down icon to view the information u entred about the task:
  
